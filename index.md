@@ -15,7 +15,7 @@ Senior Software Engineer in Ruby on Rails.
 
 ### Specialized in
 
-Developing, maintaining, architecting, optimizing and scalling web applications written in Ruby on Rails.
+Specialized in the comprehensive process of developing, maintaining, architecting, optimizing, and scaling web applications that are meticulously crafted using the Ruby on Rails framework. My expertise encompasses the entire lifecycle of these applications, from initial development to ongoing maintenance. I focus on creating robust architectures that not only meet current requirements but also allow for seamless scalability as the demands of the application grow. Additionally, I am dedicated to optimizing the performance of these web applications, ensuring they deliver a smooth and efficient user experience. In essence, my skill set revolves around the intricate world of Ruby on Rails, where I bring a holistic approach to the development and enhancement of web applications.
 
 ## Education
 
