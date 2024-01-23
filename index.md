@@ -127,14 +127,14 @@ Role: __Senior Ruby on Rails Developer__
 ## Trainings
 
 `04.2013`
-#### Oracle Java SE 7 Programmer I, 
+#### Oracle Java SE 7 Programmer I
 
 `02.2013`
-#### Weekend Android Basics Course, 
+#### Weekend Android Basics Course
 
 `04.2018`
 
-#### Elixir Conf EU participation, 04.2018
+#### Elixir Conf EU participation
 
 
 
