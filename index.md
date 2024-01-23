@@ -17,11 +17,6 @@ Senior Software Engineer in Ruby on Rails.
 
 Developing, maintaining, architecting, optimizing and scalling web applications written in Ruby on Rails.
 
-
-### Research interests
-
-Baking Napoli - styled pizza, Snowboarding, Wakeboarding, 3D printing, IoT, Robotics, New technologies.
-
 ## Education
 
 `10.2010 - 10.2013`
@@ -136,7 +131,9 @@ Role: __Senior Ruby on Rails Developer__
 
 #### Elixir Conf EU participation
 
+## Research interests
 
+Baking Napoli - styled pizza, Snowboarding, Wakeboarding, Motorcycling, 3D printing, IoT, Robotics, New technologies.
 
 ## Disclaimer
 
