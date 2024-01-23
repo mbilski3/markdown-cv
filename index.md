@@ -24,7 +24,7 @@ Baking Napoli - styled pizza, Snowboarding, Wakeboarding, 3D printing, IoT, Robo
 
 ## Education
 
-`10.2010 - 10.2013
+`10.2010 - 10.2013`
 __Marie Skłodowska - Curie University (Lublin)__
 * Major: Computer Science
 * Degree: Bachelor's degree
