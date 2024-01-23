@@ -79,7 +79,7 @@ code {
 
 p code {
 	position: absolute;
-	left: -11%;
+	left: -14%;
 }
 
 
@@ -113,6 +113,7 @@ li ul {
 }
 
 h1,h2,h3,h4 {
+	right: 20px;
 	font-weight: 400;
 	font-family: Cousine,Verdana,sans-serif;
 	width: 65%;
