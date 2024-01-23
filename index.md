@@ -19,72 +19,29 @@ Developing, maintaining, architecting, optimizing and scalling web applications 
 
 ## Education
 
-`10.2010 - 10.2013`
-__Marie Skłodowska - Curie University (Lublin)__
-* Major: Computer Science
-* Degree: Bachelor's degree
-
 `10.2014 - 06.2016`
 __University of Economics (Cracow)__
 * Major: Applied Computer Science
 * Degree: MSc (not graduated)
 
+`10.2010 - 10.2013`
+__Marie Skłodowska - Curie University (Lublin)__
+* Major: Computer Science
+* Degree: Bachelor's degree
+
 ## Experience
 
-`06.2012 - 10.2014`
-__Lublin University of Technology (Lublin)__
-Role: __Research project member__
-* Create application for Aviation;
-* Implement of mathematical algorithms;
-* Set up server environment (CentOS, Apache + Passenger module, Elasticsearch, PostgreSQL server) and deploy application;
-
-`06.2013 - 02.2015`
-__Adescosoftware (Lublin)__
-Role: __Ruby on Rails Software Developer__
-* Develop E - commerce and B2B based features and applications using Ruby on Rails, JavaScript, JQuery, HTML, CSS;
-* Implementation of solutions based on the specification;
-* Deploy applications to the server;
-* Full - stack development;
-* Data modeling;
-* Explore recent technologies;
-* Optimize functionalities;
-* Write tests;
-
-`02.2015 - 12.2017`
-__Transition Technologies - Managed Services Sp. z o.o. (Lublin / Remote)__
-Role: __Ruby on Rails Developer__
-* Create web applications using Ruby on Rails and Sinatra;
-* Deploy complex business rules and instrumentation;
-* Collaborate with Product Management and User Experience experts regarding product definition, schedule, scope and project - related decisions;
-* Collaborate with foreign customer;
-* Write scripts for deployment;
-* Develop best practices and architecture;
-* Optimize database model;
-* Write tests;
-
-`01.2018 - 12.2018`
-__Appriss Sp. z o.o. (Warsaw)__
+`05.2023 - till now`
+__Visuality (Warsaw, Poland)__
 Role: __Senior Ruby on Rails Developer__
 * Create web applications using Ruby on Rails;
+* Operate on legacy code and upgrade to the latest technology stack;
+* Eliminate technical debt;
 * Collaborate with Product Management and User Experience experts regarding product definition, schedule, scope and project - related decisions;
 * Collaborate with foreign customer;
 * Secure web application;
 * Write scripts for deployment;
-* Use AWS services stack; 
-* Develop best practices and architecture;
-* Optimize database model;
-* Write tests;
-
-`01.2019 - 02.2020`
-__Codete (Remote)__
-Role: __Senior Ruby on Rails Developer__
-* Create web applications using Ruby on Rails;
-* Over 50 applications within project - be a part of creating microservices structure;
-* Collaborate with Product Management and User Experience experts regarding product definition, schedule, scope and project - related decisions;
-* Collaborate with foreign customer;
-* Secure web application;
-* Write scripts for deployment;
-* Use AWS services stack; 
+* Use AWS services stack;
 * Develop best practices and architecture;
 * Optimize database model;
 * Write tests;
@@ -104,20 +61,63 @@ Role: __Ruby Lead Engineer__
 * Optimize database model;
 * Write tests;
 
-`05.2023 - till now`
-__Visuality (Warsaw, Poland)__
+`01.2019 - 02.2020`
+__Codete (Remote)__
 Role: __Senior Ruby on Rails Developer__
 * Create web applications using Ruby on Rails;
-* Operate on legacy code and upgrade to the latest technology stack;
-* Eliminate technical debt;
+* Over 50 applications within project - be a part of creating microservices structure;
 * Collaborate with Product Management and User Experience experts regarding product definition, schedule, scope and project - related decisions;
 * Collaborate with foreign customer;
 * Secure web application;
 * Write scripts for deployment;
-* Use AWS services stack;
+* Use AWS services stack; 
 * Develop best practices and architecture;
 * Optimize database model;
 * Write tests;
+
+`01.2018 - 12.2018`
+__Appriss Sp. z o.o. (Warsaw)__
+Role: __Senior Ruby on Rails Developer__
+* Create web applications using Ruby on Rails;
+* Collaborate with Product Management and User Experience experts regarding product definition, schedule, scope and project - related decisions;
+* Collaborate with foreign customer;
+* Secure web application;
+* Write scripts for deployment;
+* Use AWS services stack; 
+* Develop best practices and architecture;
+* Optimize database model;
+* Write tests;
+
+`02.2015 - 12.2017`
+__Transition Technologies - Managed Services Sp. z o.o. (Lublin / Remote)__
+Role: __Ruby on Rails Developer__
+* Create web applications using Ruby on Rails and Sinatra;
+* Deploy complex business rules and instrumentation;
+* Collaborate with Product Management and User Experience experts regarding product definition, schedule, scope and project - related decisions;
+* Collaborate with foreign customer;
+* Write scripts for deployment;
+* Develop best practices and architecture;
+* Optimize database model;
+* Write tests;
+
+`06.2013 - 02.2015`
+__Adescosoftware (Lublin)__
+Role: __Ruby on Rails Software Developer__
+* Develop E - commerce and B2B based features and applications using Ruby on Rails, JavaScript, JQuery, HTML, CSS;
+* Implementation of solutions based on the specification;
+* Deploy applications to the server;
+* Full - stack development;
+* Data modeling;
+* Explore recent technologies;
+* Optimize functionalities;
+* Write tests;
+
+`06.2012 - 10.2014`
+__Lublin University of Technology (Lublin)__
+Role: __Research project member__
+* Create application for Aviation;
+* Implement of mathematical algorithms;
+* Set up server environment (CentOS, Apache + Passenger module, Elasticsearch, PostgreSQL server) and deploy application;
 
 ## Trainings
 
