@@ -36,19 +36,116 @@ __University of Economics (Cracow)__
 
 ## Experience
 
-`1600`
-__Royal Mint__, London
+`06.2012 - 10.2014`
+__Lublin University of Technology (Lublin)__
+Role: __Research project member__
+* Create application for Aviation;
+* Implement of mathematical algorithms;
+* Set up server environment (CentOS, Apache + Passenger module, Elasticsearch, PostgreSQL server) and deploy application;
 
-- Warden
-- Minted coins
+`06.2013 - 02.2015`
+__Adescosoftware (Lublin)__
+Role: __Ruby on Rails Software Developer__
+* Develop E - commerce and B2B based features and applications using Ruby on Rails, JavaScript, JQuery, HTML, CSS;
+* Implementation of solutions based on the specification;
+* Deploy applications to the server;
+* Full - stack development;
+* Data modeling;
+* Explore recent technologies;
+* Optimize functionalities;
+* Write tests;
 
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`02.2015 - 12.2017`
+__Transition Technologies - Managed Services Sp. z o.o. (Lublin / Remote)__
+Role: __Ruby on Rails Developer__
+* Create web applications using Ruby on Rails and Sinatra;
+* Deploy complex business rules and instrumentation;
+* Collaborate with Product Management and User Experience experts regarding product definition, schedule, scope and project - related decisions;
+* Collaborate with foreign customer;
+* Write scripts for deployment;
+* Develop best practices and architecture;
+* Optimize database model;
+* Write tests;
+
+`01.2018 - 12.2018`
+__Appriss Sp. z o.o. (Warsaw)__
+Role: __Senior Ruby on Rails Developer__
+* Create web applications using Ruby on Rails;
+* Collaborate with Product Management and User Experience experts regarding product definition, schedule, scope and project - related decisions;
+* Collaborate with foreign customer;
+* Secure web application;
+* Write scripts for deployment;
+* Use AWS services stack; 
+* Develop best practices and architecture;
+* Optimize database model;
+* Write tests;
+
+`01.2019 - 02.2020`
+__Codete (Remote)__
+Role: __Senior Ruby on Rails Developer__
+* Create web applications using Ruby on Rails;
+* Over 50 applications within project - be a part of creating microservices structure;
+* Collaborate with Product Management and User Experience experts regarding product definition, schedule, scope and project - related decisions;
+* Collaborate with foreign customer;
+* Secure web application;
+* Write scripts for deployment;
+* Use AWS services stack; 
+* Develop best practices and architecture;
+* Optimize database model;
+* Write tests;
+
+`03.2020 - 02.2023`
+__Beatport LLC (Remote)__
+Role: __Ruby Lead Engineer__
+* Organize and lead of a team of developers and testers;
+* Care of a main vision of a project and choose best technologies to be used;
+* Create web applications using Ruby on Rails;
+* Collaborate with Product Management and User Experience experts regarding product definition, schedule, scope and project - related decisions;
+* Collaborate with foreign customer;
+* Securing web application;
+* Write scripts for deployment;
+* Use AWS services stack;
+* Develop best practices and architecture;
+* Optimize database model;
+* Write tests;
+
+`05.2023 - till now`
+__Visuality (Warsaw, Poland)__
+Role: __Senior Ruby on Rails Developer__
+* Create web applications using Ruby on Rails;
+* Operate on legacy code and upgrade to the latest technology stack;
+* Eliminate technical debt;
+* Collaborate with Product Management and User Experience experts regarding product definition, schedule, scope and project - related decisions;
+* Collaborate with foreign customer;
+* Secure web application;
+* Write scripts for deployment;
+* Use AWS services stack;
+* Develop best practices and architecture;
+* Optimize database model;
+* Write tests;
+
+## Trainings
+
+`04.2013`
+#### Oracle Java SE 7 Programmer I, 
+
+`02.2013`
+#### Weekend Android Basics Course, 
+
+`04.2018`
+
+#### Elixir Conf EU participation, 04.2018
 
 
+
+## Disclaimer
+
+Wyrażam zgodę na przetwarzanie moich danych osobowych dla potrzeb niezbędnych do realizacji procesu rekrutacji (zgodnie z Ustawą z dnia 10.05.2018 roku o Ochronie Danych Osobowych, Dz. U. 2018 r. poz. 1000).
+
+I hereby consent to the processing of my personal data for the purposes necessary to carry out the recruitment process (in accordance with the Act of May 10, 2018, on the Protection of Personal Data, Journal of Laws 2018, item 1000).
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Jan 2024 -->
 
 
