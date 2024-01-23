@@ -1,23 +1,22 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Mateusz Bilski's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Mateusz Bilski
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="mailto:mbilski3@gmail.com">mbilski3@gmail.com</a>
+| <a href="https://github.com/mbilski3">GitHub</a>
 </div>
 
 
 ## Currently
 
-Standing on the shoulders of giants
+Senior Software Engineer in Ruby on Rails.
 
 ### Specialized in
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Developing, maintaining, architecting, optimizing and scalling web applications written in Ruby on Rails.
 
 
 ### Research interests
