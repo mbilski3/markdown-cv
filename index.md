@@ -130,7 +130,7 @@ __Weekend Android Basics Course__
 `04.2018`
 __Elixir Conf EU participation__
 
-## Research interests
+## Hobbies / Interests
 
 Baking Napoli - styled pizza, Snowboarding, Wakeboarding, Motorcycling, 3D printing, IoT, Robotics, New technologies.
 
