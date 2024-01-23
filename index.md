@@ -9,7 +9,6 @@ title: Mateusz Bilski's CV
 | <a href="https://github.com/mbilski3">GitHub</a>
 </div>
 
-
 ## Currently
 
 Senior Software Engineer in Ruby on Rails.
@@ -21,56 +20,21 @@ Developing, maintaining, architecting, optimizing and scalling web applications 
 
 ### Research interests
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
+Baking Napoli - styled pizza, Snowboarding, Wakeboarding, 3D printing, IoT, Robotics, New technologies.
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`10.2010 - 10.2013
+__Marie Skłodowska - Curie University (Lublin)__
+* Major: Computer Science
+* Degree: Bachelor's degree
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`10.2014 - 06.2016`
+__University of Economics (Cracow)__
+* Major: Applied Computer Science
+* Degree: MSc (not graduated)
 
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
+## Experience
 
 `1600`
 __Royal Mint__, London
