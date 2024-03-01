@@ -73,6 +73,10 @@ __Others__
 * GPIO control of Raspberry PI
 * Elasticsearch
 
+&nbsp;
+&nbsp;
+
+
 ## Experience
 
 `05.2023 - till now`
