@@ -7,6 +7,7 @@ title: Mateusz Bilski's CV
 <div id="webaddress">
   <a href="mailto:mbilski3@gmail.com">mbilski3@gmail.com</a>
 | <a href="https://github.com/mbilski3">GitHub</a>
+| <a href="https://www.linkedin.com/in/mateusz-bilski-b478889a/">LinkedIn</a>
 </div>
 
 ## Currently
@@ -28,6 +29,49 @@ __University of Economics (Cracow)__
 __Marie Skłodowska - Curie University (Lublin)__
 * Major: Computer Science
 * Degree: Bachelor's degree
+
+## Skills and known technologies
+
+__Programming Languages__
+* Ruby
+* SQL (PostgeSQL, Oracle 11g, mysql 5.7, 8)
+* HTML5
+* Javascript (coffeescript, ES6)
+* Crystal
+* Java
+* C/C++
+
+__Web Development Frameworks__
+* Ruby on Rails 3/4/5/6
+* Stimulus
+* Turbo
+* React.js
+* jQuery
+
+__Frontend Technologies__ 
+* HTML5
+* CSS3
+* Sass/Less
+* Bootstrap
+  
+__Databases__
+* PostgreSQL
+* Oracle 11g
+* mysql 5.7, 8
+* Redis
+
+__DevOps Tools__
+* Docker
+* AWS
+* Heroku
+* Github Actions
+
+__Others__
+* Sidekiq
+* RSpec, minitest
+* RESTful APIs
+* GPIO control of Raspberry PI
+* Elasticsearch
 
 ## Experience
 
