@@ -10,6 +10,8 @@ title: Mateusz Bilski's CV
 | <a href="https://www.linkedin.com/in/mateusz-bilski-b478889a/">LinkedIn</a>
 </div>
 
+![Mateusz Bilski](/ja.png)
+
 ## Currently
 
 Senior Software Engineer in Ruby on Rails.
